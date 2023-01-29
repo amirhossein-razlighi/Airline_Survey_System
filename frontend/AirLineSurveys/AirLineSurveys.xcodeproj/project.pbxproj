@@ -10,6 +10,7 @@
 		6000C65C298697D500AB33A8 /* Question.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6000C65B298697D500AB33A8 /* Question.swift */; };
 		6000C65E298699D600AB33A8 /* ManagerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6000C65D298699D600AB33A8 /* ManagerView.swift */; };
 		6000C6602986ACCD00AB33A8 /* ShowAllPassengers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6000C65F2986ACCD00AB33A8 /* ShowAllPassengers.swift */; };
+		6000C6622986B4ED00AB33A8 /* Voter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6000C6612986B4ED00AB33A8 /* Voter.swift */; };
 		605AAAA6296D61D50053F107 /* AuthenticationManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 605AAAA5296D61D50053F107 /* AuthenticationManager.swift */; };
 		605AAAA8296D64960053F107 /* VoterLoginView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 605AAAA7296D64960053F107 /* VoterLoginView.swift */; };
 		605AAAAC296D6D2D0053F107 /* VotersSurveysInGlance.swift in Sources */ = {isa = PBXBuildFile; fileRef = 605AAAAB296D6D2D0053F107 /* VotersSurveysInGlance.swift */; };
@@ -32,6 +33,7 @@
 		6000C65B298697D500AB33A8 /* Question.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Question.swift; sourceTree = "<group>"; };
 		6000C65D298699D600AB33A8 /* ManagerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ManagerView.swift; sourceTree = "<group>"; };
 		6000C65F2986ACCD00AB33A8 /* ShowAllPassengers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShowAllPassengers.swift; sourceTree = "<group>"; };
+		6000C6612986B4ED00AB33A8 /* Voter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Voter.swift; sourceTree = "<group>"; };
 		605AAAA5296D61D50053F107 /* AuthenticationManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AuthenticationManager.swift; sourceTree = "<group>"; };
 		605AAAA7296D64960053F107 /* VoterLoginView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VoterLoginView.swift; sourceTree = "<group>"; };
 		605AAAAB296D6D2D0053F107 /* VotersSurveysInGlance.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VotersSurveysInGlance.swift; sourceTree = "<group>"; };
@@ -87,6 +89,7 @@
 				60AFCCB8296D9E9800B97C68 /* DescriptiveQuestion.swift */,
 				60AFCCBC296DA0EC00B97C68 /* Choice.swift */,
 				6000C65B298697D500AB33A8 /* Question.swift */,
+				6000C6612986B4ED00AB33A8 /* Voter.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -210,6 +213,7 @@
 				60AFCCBD296DA0EC00B97C68 /* Choice.swift in Sources */,
 				60A001A2296D54E00072F3AE /* ManagerLoginView.swift in Sources */,
 				60AFCCB7296D9E8800B97C68 /* MultiAnswerQuestionView.swift in Sources */,
+				6000C6622986B4ED00AB33A8 /* Voter.swift in Sources */,
 				605AAAA6296D61D50053F107 /* AuthenticationManager.swift in Sources */,
 				60AFCCAF296D870500B97C68 /* SurveyInfo.swift in Sources */,
 				60A00196296D54020072F3AE /* ContentView.swift in Sources */,
