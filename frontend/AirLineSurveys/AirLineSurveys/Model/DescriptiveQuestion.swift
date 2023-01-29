@@ -8,11 +8,11 @@
 import Foundation
 
 
-class DescriptiveQuestion: Question {
+class DescriptiveQuestion {
     var answer: String
     
     init(id: Int, questionNumber: Int, questionText: String, answer: String) {
         self.answer = answer
-        super.init(id: id, questionNumber: questionNumber, questionText: questionText)
+//        super.init(id: id, questionNumber: questionNumber, questionText: questionText)
     }
 }
